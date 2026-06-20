@@ -1,0 +1,1 @@
+print([i for i in set(input("Enter numbers ").split())])
